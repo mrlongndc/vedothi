@@ -1,0 +1,5 @@
+{
+  "name": "Vẽ đồ thị THCS",
+  "description": "Ứng dụng vẽ đồ thị hàm số dành cho học sinh THCS (lớp 9). Hỗ trợ vẽ y = ax, y = ax + b, y = ax² với giao diện 3D bắt mắt, tính toán tự động và xuất file Word.",
+  "requestFramePermissions": []
+}
